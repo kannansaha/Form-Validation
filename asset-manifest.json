@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/Form-Validation/static/css/main.1670e0b1.css",
-    "main.js": "/github.io/Form-Validation/static/js/main.993a45c6.js",
-    "index.html": "/github.io/Form-Validation/index.html",
-    "main.1670e0b1.css.map": "/github.io/Form-Validation/static/css/main.1670e0b1.css.map",
-    "main.993a45c6.js.map": "/github.io/Form-Validation/static/js/main.993a45c6.js.map"
+    "main.css": "/Form-Validation/static/css/main.1670e0b1.css",
+    "main.js": "/Form-Validation/static/js/main.993a45c6.js",
+    "index.html": "/Form-Validation/index.html",
+    "main.1670e0b1.css.map": "/Form-Validation/static/css/main.1670e0b1.css.map",
+    "main.993a45c6.js.map": "/Form-Validation/static/js/main.993a45c6.js.map"
   },
   "entrypoints": [
     "static/css/main.1670e0b1.css",
